@@ -10,4 +10,4 @@
 - 實務練習
 
 #### 課程大綱
-- [1. 環境建置](http://mirdex.github.io/MachineLearning20231203/)
+- [1. Numpy基礎複習](http://mirdex.github.io/MachineLearning20231203/1.%20Numpy%20總複習1_Q.slides.html)
