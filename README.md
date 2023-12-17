@@ -12,3 +12,4 @@
 #### 課程大綱
 - [1. Numpy基礎複習](http://mirdex.github.io/MachineLearning20231203/1.%20Numpy%20總複習1_Q.slides.html)
 - [2. Numpy進階](http://mirdex.github.io/MachineLearning20231203/2.%20NumPy_Q.slides.html)
+- [3. Pandas基礎複習](http://mirdex.github.io/MachineLearning20231203/3.%20Pandas%20總複習1_Q.slides.html)
