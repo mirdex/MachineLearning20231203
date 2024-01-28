@@ -14,4 +14,3 @@
 - [2. Numpy進階](http://mirdex.github.io/MachineLearning20231203/2.%20NumPy_Q.slides.html)
 - [3. Pandas基礎複習](http://mirdex.github.io/MachineLearning20231203/3.%20Pandas%20總複習1_Q.slides.html)
 - [4. Pandas進階](http://mirdex.github.io/MachineLearning20231203/4.%20Pandas_Q.slides.html)
-- [5. 機器學習簡介](http://mirdex.github.io/MachineLearning20231203/5.Machine%20Learning%20Introduction.slides.html)
