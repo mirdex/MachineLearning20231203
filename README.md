@@ -19,3 +19,4 @@
 - [7. Data Progress Theory](http://mirdex.github.io/MachineLearning20231203/7.%20Data%20Progress%20Theory_Q.slides.html)
 - [8. Data Progress Implement](http://mirdex.github.io/MachineLearning20231203/8.Data%20Process%20Implement_Q.slides.html)
 - [9. KNN](http://mirdex.github.io/MachineLearning20231203/9.%20KNN_Q.slides.html)
+- [10. KNN Advance](http://mirdex.github.io/MachineLearning20231203/10.%20KNN_Advance_Q.slides.html)
