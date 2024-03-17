@@ -23,3 +23,4 @@
 - [11. Navie Bayes Classification](http://mirdex.github.io/MachineLearning20231203/12.%20Naive%20Bayes%20Classification_Q.slides.html)
 - [12. Decision Tree](http://mirdex.github.io/MachineLearning20231203/13.%20Decision%20Tree_Q.slides.html)
 - [13. Association Rule](http://mirdex.github.io/MachineLearning20231203/11.%20Association%20Rule_Q.slides.html)
+- [14. Regression](http://mirdex.github.io/MachineLearning20231203/16.%20Regression_Q.slides.html)
