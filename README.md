@@ -25,3 +25,4 @@
 - [13. Association Rule](http://mirdex.github.io/MachineLearning20231203/11.%20Association%20Rule_Q.slides.html)
 - [14. Regression](http://mirdex.github.io/MachineLearning20231203/16.%20Regression_Q.slides.html)
 - [15. Cluster](http://mirdex.github.io/MachineLearning20231203/14.%20Cluster_Q.slides.html)
+- [16. Sequtential Pattern](http://mirdex.github.io/MachineLearning20231203/15.%20Sequential%20Pattern_Q.slides.html)
